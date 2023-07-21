@@ -1,0 +1,61 @@
+---
+title: "Projeto de formação em Saúde Digital"
+author: "Instituto de Saúde Coletiva"
+lan: pt-BR
+title-block-banner: "#27445C"
+bibliography: references.bib
+format: 
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    theme: cosmo
+    fontcolor: black
+    toc: true
+    toc-location: left
+    toc-title: Sumário
+    toc-depth: 3
+  revealjs: 
+    logo: logo_nova_2017.png
+css: styles.css
+editor: visual
+---
+
+## DADOS DA INSTITUIÇÃO
+
+## DADOS DA UNIDADE
+
+## DADOS DO PROGRAMA
+
+### PROPOSTA/CURSOS
+
+[@Bruno2023]
+
+### INSTITUIÇÕES PARTICIPANTES
+
+### CARACTERIZAÇÃO DA PROPOSTA
+
+### ÁREA DE CONCENTRAÇÃO/LINHAS DE PESQUISA E INOVAÇÃO
+
+### DETALHAMENTO DA PROPOSTA
+
+### ARTICULAÇÃO DOS NÍVEIS DE FORMAÇÃO
+
+### COMPONENTES CURRICULARES
+
+### ORIENTAÇÃO E OUTRAS ATIVIDADES
+
+### DADOS DO CORPO DOCENTE
+
+### PRODUÇÃO CIENTÍFICA E TECNOLÓGICA
+
+### INFRAESTRUTURA
+
+### ORÇAMENTO
+
+### CRONOGRAMA
+
+### INFORMAÇÕES COMPLEMENTARES
+
+### ANEXOS (DOCUMENTOS)
+
+### REFERÊNCIAS BIBLIOGRÁFICAS

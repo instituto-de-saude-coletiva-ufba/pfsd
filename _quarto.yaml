@@ -1,0 +1,9 @@
+output:
+  html:
+    grid:
+      margin-x: 16px
+      margin-y: 16px
+      gutter: 24px
+      columns:
+        - width: 320px
+        - min-width: 800px
