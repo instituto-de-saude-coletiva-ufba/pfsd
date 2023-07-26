@@ -20,42 +20,156 @@ css: styles.css
 editor: visual
 ---
 
-## DADOS DA INSTITUIÇÃO
 
-## DADOS DA UNIDADE
 
-## DADOS DO PROGRAMA
+## 1.	APRESENTAÇÃO DA PROPOSTA
 
-### PROPOSTA/CURSOS
+
+![](figures/diagrama.jpeg){fig-align="center"}
 
 [@Bruno2023]
 
-### INSTITUIÇÕES PARTICIPANTES
+### 1.1.	Objetivos
 
-### CARACTERIZAÇÃO DA PROPOSTA
+#### Objetivos Gerais:
 
-### ÁREA DE CONCENTRAÇÃO/LINHAS DE PESQUISA E INOVAÇÃO
+1.  Fortalecer a educação interprofissional e o trabalho cooperativo em saúde, visando à formação de profissionais capazes de atuar em equipe nas diferentes realidades sociais, educacionais e sanitárias no campo da Saúde Digital (SD);
+2.  Fomentar uma cultura digital em todos os níveis do Sistema Único de Saúde (SUS), aberta à inovação tecnológica competente voltada para a qualidade com equidade, humanização e sensibilidade;
+3.  Apoiar grupos, núcleos e instituições de pesquisa e inovação a fim de ampliar o conhecimento tecnocientífico sobre o uso de Tecnologias Digitais em Saúde (TDS);
+4.  Promover cooperação técnica a partir de pesquisas inovadoras sobre as TDS que produzam impacto no SUS, preferencialmente realizadas nos serviços de saúde;
 
-### DETALHAMENTO DA PROPOSTA
+#### Objetivos Específicos:
 
-### ARTICULAÇÃO DOS NÍVEIS DE FORMAÇÃO
+1.  Conceber, prototipar, implementar e realizar prova de conceito do Programa Nacional de Formação em Saúde Digital (PROFSAD), destinado a formar especialistas, mestres e doutores capazes de planejar, executar, acompanhar, operar e avaliar ações, programas e políticas de atuação profissional no campo da Saúde Digital
+2.  Criar a Rede Nacional de Formação em Saúde Digital (RENASD), uma rede interinstitucional de instituições de produção de conhecimento, inovação e criação no campo da Saúde Digital, com base na articulação plena entre universidade, sociedade e ecossistemas de saúde. O cumprimento desses objetivos se pautará nos seguintes princípios:
 
-### COMPONENTES CURRICULARES
 
-### ORIENTAÇÃO E OUTRAS ATIVIDADES
+  a)  Desenvolvimento de um pensamento competente, crítico e reflexivo para a formação no campo da Saúde Digital como processo político pedagógico;
+  b)  Compromisso com a formação de especialistas, mestres e doutores, prioritariamente no cotidiano dos serviços de saúde, com foco na transformação profunda de saberes técnicos e práticas profissionais;
+  c)  Orientação inter-transdisciplinar, articulando cursos da área da Saúde em interface com as áreas de Computação, Ciências de Dados e Ciências da Informação;
+  d)  Ação formativa com equipes docentes interdisciplinares e multi-profissionais, para atuar em áreas epistêmicas correlatas, integrando distintas culturas institucionais;   
+  e)  Produção de conhecimentos numa perspectiva meta-inter-trans-disciplinar a partir da investigação de situações relacionadas à prática em saúde mediada por tecnologias digitais;
+  f)  Aplicabilidade dos resultados das inovações em TDS, diretamente junto a gestores, profissionais dos serviços de saúde e atores do controle social;
+  g)  Intercâmbio interinstitucional, em âmbitos nacional e internacional, como método e estratégia de aprimoramento permanente da equipe.
 
-### DADOS DO CORPO DOCENTE
+Com base nesses princípios, o PROFSAD atuará na interface entre educação e saúde, em parceria com as instituições envolvidas, visando à melhoria da qualidade da formação em Saúde Digital, envolvendo práticas de ensino, diretrizes pedagógicas, funções didáticas e orientação curricular. Realizado no contexto da formação acadêmica e profissional em saúde, o aporte crítico será condição crucial para o desenvolvimento de uma proposta curricular inovadora, em processo permanente de co-criação, em harmonia com o marco referencial tecnológico da SEIDIGI/MS, com as diretrizes pedagógicas da SGETS/MS e com os dispositivos regulatórios das instituições componentes da RENASD.
 
-### PRODUÇÃO CIENTÍFICA E TECNOLÓGICA
 
-### INFRAESTRUTURA
 
-### ORÇAMENTO
+## 2.	CONTEXTUALIZAÇÃO DA PROPOSTA
 
-### CRONOGRAMA
+### 2.1.	Antecedentes históricos
 
-### INFORMAÇÕES COMPLEMENTARES
+### 2.2.	Campo da Saúde Digital 
 
-### ANEXOS (DOCUMENTOS)
+#### 2.2.1.	Conceitos de Saúde Digital (eHealth; mHealth; digital health)
 
-### REFERÊNCIAS BIBLIOGRÁFICAS
+#### 2.2.2.	Telessaúde, Telemedicina e correlatos
+#### 2.2.3.	Conectividade, equipamentos e dispositivos auxiliares
+#### 2.2.4.	Prontuários eletrônicos e registros autoaplicados 
+#### 2.2.5.	Megabases de dados (big data)
+#### 2.2.6.	Inteligência Artificial em Saúde
+
+### 2.3.	Contextualização Institucional 
+
+#### 2.3.1.	Contexto contemporâneo
+#### 2.3.2.	Subcontexto da educação em saúde (SGETS)
+#### 2.3.3.	Subcontexto da saúde digital no Brasil (SEIDIGI)
+
+## 3.	DETALHAMENTO DA PROPOSTA
+
+### 3.1. Dimensões do Programa
+
+O Programa Nacional de Formação em Saúde Digital (PROFSAD) será oferecido por instituições participantes da Rede Nacional de Formação em Saúde Digital (RENASD), seguindo uma estratégia de viabilização com aproveitamento de estruturas, iniciativas e programas de ensino pré-existentes, com diretrizes pedagógicas, funções didáticas e orientação curricular ajustadas às demandas específicas. As atividades previstas no Programa se organizam em quatro eixos:
+
+i.  Letramento Digital em Saúde;
+
+ii. Educação Continuada.
+
+iii. Formação Profissional de Graduação;
+
+iv. Formação Avançada (Pós-Graduação);
+
+#### 3.1.1. Letramento Digital em Saúde (MOOCs)
+
+No nível introdutório, destinado a um público mais amplo -- principalmente usuários e pacientes, mas também incluindo profissionais de saúde com reduzido domínio de tecnologias digitais -- o PROFSAD prevê um modelo educacional auto-instrucional fundado na apropriação de experiências pedagógicas realizadas em espaços não-físicos e situações metapresenciais.
+
+Em 2009, o MIT e a Universidade Harvard ensaiaram colocar alguns de seus cursos em oferta aberta em redes digitais, através do Programa edX. Essa experiência exitosa, mas em escala restrita, inspirou plataformas de apresentação de conteúdos pedagógicos universitários online, em larga escala, que ganharam a sigla MOOC (Massive Online Open Courses). Uma classificação binária dessa modalidade de educação metapresencial tem sido proposta: cursos centrados no professor, abertos à comunidade extra-universitária, atualizando o formato consagrado dos cursos livres de extensão (denominados xMOOCs); uma visão diferente de educação online massiva construída a partir de plataformas ubíquas de conectividade (cMOOCs). A iniciativa mais bem sucedida nesse segundo aspecto é sem dúvida a plataforma Coursera, start-up da Universidade Stanford lançada em 2012, engajando 257 instituições de ensino superior de todo o mundo, com mais de 7 mil cursos, com quase 100 milhões de matrículas. No Brasil, algumas universidades públicas, como a USP e a Unicamp, lançaram cursos experimentais em formato similar aos MOOCs, ainda com pouca oferta e limitado alcance.
+
+O Programa proposto inclui a elaboração, disponibilização e contínuo aperfeiçoamento de uma plataforma digital, oferecendo uma linha de cursos para letramento digital ou iniciação na cultura digital em saúde. Essa plataforma será integrada ao projeto UNASUS. Como passo inicial do presente projeto, pretende-se viabilizar a oferta de um MOOC sobre Introdução à Saúde Digital (título provisório). Novas condições e elementos pedagógicos serão criados no seu desenvolvimento, permitindo outras experiências inaugurais de aprendizagem que podem gerar processos particulares de análise, reflexão e apropriação do conhecimento.
+
+#### 3.1.2. Educação Continuada (Atualização/Aperfeiçoamento)
+
+Articulado a redes interinstitucionais já formadas e devidamente reconhecidas pela Capes, o PROFSAD mobilizará inovações pedagógicas do tipo Recursos Educacionais Abertos (REA), do qual os MOOCs são exemplo privilegiado, suportados por Dispositivos Virtuais de Aprendizagem (DVA), operando em espaços que, dessa forma constituídos, têm sido denominados como Ambientes Virtuais de Aprendizagem (AVA). Tais recursos, dispositivos e ambientes compreendem novas tecnologias de interface digital e meios interativos de comunicação, usando redes digitais conectadas, que potencializam e permitem superar limites físicos e institucionais do ambiente escolar tradicional. Os DVA operam programas computacionais interativos com capacidade de comunicação integrada, implicando tecnologias pedagógicas capazes de realizar uma série complexa e diversificada de tarefas educacionais em tempo real ou em modo assíncrono. Os REA, DVA e AVA não representam meros complementos ou acessórios pedagógicos para métodos convencionais de ensino; dessa forma, não se limitam à educação formal. Esses recursos, dispositivos e espaços digitais viabilizarão modalidades formativas e inovações didáticas baseadas em metodologias dialógicas, com base na metapresencialidade, a ser viabilizada mediante implantação de polos metapresenciais em Estados e Municípios, recuperando o modelo UAB, no contexto da UNASUS.
+
+Neste eixo do Programa, serão oferecidos cursos de extensão nas modalidades aperfeiçoamento e atualização, destinados principalmente a profissionais de saúde que pretendem ampliar seu domínio de tecnologias digitais, mas também incluindo profissionais de TI buscando conhecimentos sobre temas da Saúde Digital. Com isso, o PROFSAD pretende se tornar modelo para programas de formação ao longo da vida, no que se chama de educação permanente ou continuada, com o prosseguimento de estudos após residências, especializações e outros programas de formação oferecidos pelas IES da rede, com foco prioritário (mas não exclusivo) na Atenção Primária em Saúde.
+
+#### 3.1.3. Formação Profissional de Graduação (PET Saúde Digital)
+
+O PROFSAD compreende um conjunto articulado de intervenções visando à formação digital de sujeitos no nível de ensino superior que, no sistema educacional brasileiro, chama-se de graduação. Nesse nível, propõe-se decisivo incentivo a reformas curriculares nos cursos da saúde, visando a introduzir e ampliar o ensino das TDS em carreiras profissionais, mediante ações de consultoria pedagógica, busca ativa de oportunidades e participação em eventos na área de educação em saúde. Em complemento, propõe-se a concepção, organização, avaliação e oferta de um programa especial de tutoria, nos moldes do PET Saúde, para práticas integradas de estudantes de saúde nas áreas da computação, ciências de dados e ciências da informação. Propostas componentes deste eixo serão co-construídas junto às instituições de formação profissional que eventualmente venham a fazer parte da RENASD, juntamente com as universidades e instituições de conhecimento que manifestem interesse na transformação digital de seus currículos.
+
+#### 3.1.4. Formação Avançada (Especialização-Mestrado Profissional)
+
+Na organização do PROFSAD, no nível da pós-graduação, a principal estratégia desta proposta implica a criação de uma Área de concentração em em Saúde Digital num Mestrado Profissional em Saúde Coletiva já existente e operante, cuja conclusão pode ser considerada como etapa prévia ao futuro projeto de um Doutorado Profissional em Saúde Digital (DP-SD). Em complemento, buscando superar a limitante dicotomia senso-lato/senso-estrito, cursos de atualização e aperfeiçoamento serão organizados e ministrados sob a forma de blocos, módulos e componentes curriculares cujos créditos acadêmicos comporão uma Especialização Modular em Saúde Digital e que, por sua vez, serão reconhecidos e acolhidos na área de concentração em Saúde Digital do Mestrado Profissional. A articulação entre essas modalidades num programa de formação avançada e o detalhamento dos seus elementos estruturantes constituem objeto das seções seguintes.
+
+#### 3.1.5.	Mestrado Profissional
+#### 3.1.6.	Doutorado Profissional
+
+### 3.2.	Fluxos de formação avançada
+
+#### 3.2.1.	Perfil da demanda
+#### 3.2.2.	Seleção e ingresso
+#### 3.2.3.	Sistema de creditação 
+#### 3.2.4.	Critérios de progressão
+
+### 3.3.	Estrutura curricular integrada
+#### 3.3.1.	Tronco Comum Obrigatório
+#### 3.3.2.	Área de Concentração 
+#### 3.3.3.	Componentes curriculares da Formação Específica
+#### 3.3.4.	Componentes curriculares livres
+
+### 3.4.	 Orientação e outras atividades 
+
+### 3.5.	 Critérios de avaliação e controle de qualidade
+#### 3.5.1.	Exames de Qualificação
+#### 3.5.2.	Validação dos trabalhos de conclusão
+#### 3.5.3.	Requisitos para titulação
+
+### 3.6.	Linhas de pesquisa e inovação 
+#### 3.6.1.	Fundamentos histórico-conceituais da Saúde Digital
+#### 3.6.2.	Bases tecnológicas e operacionais da Telessaúde
+#### 3.6.3.	Aspectos éticos, jurídicos e políticos das TDS
+#### 3.6.4.	Correlações socioeconômicas das TDS: objetos técnicos e aplicações
+#### 3.6.5.	Manejo de megabases de dados em saúde
+#### 3.6.6.	Inteligência Artificial na Saúde Digital
+
+## 4.	REDE INTERINSTITUCIONAL
+
+### 4.1.	 Composição 
+
+### 4.2.	 Governança da Rede
+
+### 4.3.	 Cooperação intranacional: Polos Metapresenciais em Estados e Municípios (modelo UAB)
+
+### 4.4.	 Intercâmbio internacional: Sul-Sul (polos em países América Latina e Caribe) e Sul-Norte (Global Health: Stanford, Princeton, Harvard)
+
+## 5.	DADOS DO CORPO DOCENTE
+
+### 5.1.	Composição e distribuição
+
+### 5.2.	Filiação institucional e dedicação
+
+### 5.3.	Produção Científica e Tecnológica 
+
+## 6.	INFRAESTRUTURA
+
+## 7.	ORÇAMENTO
+
+## 8.	CRONOGRAMA
+
+## 9.	REFERÊNCIAS BIBLIOGRÁFICAS
+
+## ANEXOS (DOCUMENTOS) 
+
+## DADOS DA INSTITUIÇÃO
+## DADOS DA UNIDADE/PROGRAMA  
